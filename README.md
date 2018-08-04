@@ -48,5 +48,5 @@ Las preguntas del guión correspondientes a dichos programas están contestadas 
 Implementar una *Bomba Digital*: Un programa que solicita una contraseña, simulando una explosión si
 no es correcta o si se tarda demasiado tiempo en introducirla. Tras esto solicita un código, y el programa 
 actuará igual que antes. Si se introducen ambos correctamente la *Bomba Digital* quedará desactibada.
-En el *PDF* se explica como desactivar la Bomba Digital*, ***PCH_bomb***, sin saber la contraseña, cómo 
+En el *PDF* se explica como desactivar la *Bomba Digital*, ***PCH_bomb***, sin saber la contraseña, cómo 
 averiguar la contraseña y cómo desactivar la *Bomba Digital* de un compañero, la ***MaxiBomb***.
